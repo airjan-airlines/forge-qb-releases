@@ -17,5 +17,5 @@ Version Notes:
 
 Website: www.forge-qb.com
 
-If you support our project, please consider donating at: buymeacoffee.com/forgequizba
+If you support our project, please consider donating at: www.buymeacoffee.com/forgequizba
 Donations are used to cover domain costs, api costs, and future features. Help us keep ForgeQB free!
