@@ -6,7 +6,7 @@ Windows Notes:
 
 MacOS Notes:
 - 64 bit only supported currently
-- not officially notarized by Apple. After installation the user must run $ sudo xattr -rd /Applications/ForgeQB.app in the terminal following installation.
+- not officially notarized by Apple. After installation the user must run $ sudo xattr -cr /Applications/ForgeQB.app in the terminal following installation.
 
 Linux Notes:
 - Not currently compiled for linux. Look into windows emulators for now. Future planned release
